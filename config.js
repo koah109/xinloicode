@@ -11,6 +11,6 @@ const CONFIG = {
     reply: 'Ghéc',
     mess: 'Biết mà :((((',
     messDesc: '',
-    btnAccept: ' <3',
+    btnAccept: 'Khoa yêu Diễm nhiều ơi là nhiềuu',
     messLink: 'https://www.facebook.com/messages/t/100012582878440/' 
 }
